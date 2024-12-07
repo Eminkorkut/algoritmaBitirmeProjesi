@@ -1,0 +1,3 @@
+C:/Users/emin/Desktop/programlamaProje/cmake-build-debug/CMakeFiles/programlamaProje.dir
+C:/Users/emin/Desktop/programlamaProje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emin/Desktop/programlamaProje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
